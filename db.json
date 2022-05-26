@@ -1,0 +1,38 @@
+{
+  "employeeList": [
+    {
+      "employeeName": "Bhavesh",
+      "employeeAge": 88,
+      "employeeNumber": 123456789,
+      "employeeExpLevel": "Intermediate",
+      "description": "sa",
+      "id": 2
+    },
+    {
+      "employeeName": "Rahul",
+      "employeeAge": 23,
+      "employeeNumber": 6633552211,
+      "employeeExpLevel": "Expert",
+      "description": "2++\n",
+      "id": 3
+    },
+    {
+      "employeeName": "Moreshwar ",
+      "employeeAge": 22,
+      "employeeNumber": 5577889944,
+      "employeeExpLevel": "Beginner",
+      "description": "New employee",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
